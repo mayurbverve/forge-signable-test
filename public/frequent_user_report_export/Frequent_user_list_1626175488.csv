@@ -1,0 +1,5 @@
+"#","total_call","name","email","phone","gender","date_of_join","date_of_birth","user_id","company_name","role_name","display_name"
+"1","133","akshay ","akshay@amazon.in","","","01/01/1970","01/01/1970","41","AMAZON INDIA","supervisor","supervisor"
+"2","37","Rudresh Dave","rudraa8600@gmail.com","8780165446","male","15/06/2020","20/06/1994","63","AMAZON INDIA","operation_manager","Operation Manager"
+"3","7","kartik ","kartik@amazon.com","","male","01/01/1970","01/01/1970","29","AMAZON INDIA","operation_manager","Operation Manager"
+"4","5"," ","rudresh64434@amazon.in","","male","01/01/1970","01/01/1970","6","AMAZON INDIA","supervisor","supervisor"

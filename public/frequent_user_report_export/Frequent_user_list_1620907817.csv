@@ -1,0 +1,4 @@
+"#","total_call","name","email","phone","gender","date_of_join","date_of_birth","user_id","company_name","role_name","display_name"
+"1","40","Ankit Bokare","supervisor01@mailinator.com","9512902033","male","21/05/2015","02/04/1991","2","AMAZON INDIA","company_admin","Company Admin"
+"2","4","Vikas Jain","supervisor02@mailinator.com","8780165446","male","15/06/2020","12/12/1957","4","AMAZON INDIA","company_admin","Company Admin"
+"3","2","Nikul Patel","interpreter01@mailinator.com","8780165446","male","15/06/2020","12/12/1957","1","SIGNABLE PVT LTD","supplier_admin","Supplier Admin"
